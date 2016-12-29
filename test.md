@@ -1,7 +1,8 @@
 Markdown语法讲解
 ==
+
 用Markdown让词句有**加粗**或*斜体*的效果很容易.
-你也可以创建一个文本超链接，像这样：[连接到Github](https://github.com)
+你也可以创建一个文本超链接，像这样：[连接到yulongjun Markdown](https://github.com/yulongjun/A-Byte-of-Markdown)
 
 
 有时候你想要带数字编号的列表
